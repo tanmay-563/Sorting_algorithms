@@ -25,7 +25,7 @@ void selectionsort(int*a, int n){
     }
 }
 int main(){
-    int a[]= {12,56,33,23,90,6,76,13};
+    int a[]= {12,56,33,23,9,6,76,13};
     int n =8;
     traverse(a,n);
     printf("After sorting elements \n");
